@@ -8,10 +8,18 @@ This YOLO v4 model is made to detect patterns on the default SPC Mat 1 for calib
 
 The patterns locations are used to compute homography between detected patterns and template position and reproject the original image.
 
-
+| ![Mat1 output](./output/mat1.jpg) |
+|-|
 ### Template mapping coordinates
 
-* 
+* p0
+* p1
+* p2
+* p3
+* p4
+* p5
+* l
+* r
 
 ## Usage
 1. Install AlexeyAB [darknet](https://github.com/AlexeyAB/darknet) implementation of Yolo v4
