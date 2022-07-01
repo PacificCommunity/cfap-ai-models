@@ -7,7 +7,7 @@ The [Coastal Fisheries and Aquaculture Programme](https://fame.spc.int) of the [
 This repository contains the main models that are used as part of a image processing chain to calibrate images, detect, measure and identify specimens. Most detection models are based on YOLO v4, but we also use Detectron 2 PointRend for contouring and ResNet-101 for classifiers.
 
 ## Models
-* [YOLO v4 - SPC Board 3 detection](./tree/master/YOLO_v4/SPC_Board3)
+* [YOLO v4 - SPC Board 3 detection](./YOLO_v4/SPC_Board3)
 
 ## License
 This work is licensed under Creative Commons Attribution-Non Commercial 4.0 license (CC BY-NC 4.0)
