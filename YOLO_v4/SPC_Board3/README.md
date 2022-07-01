@@ -1,13 +1,15 @@
 # YOLO v4 - SPC Board 3 detection
 
 ## Introduction
-This YOLO v4 model is made to detect patterns on the default SPC Board 3 for calibration of fish and invertebrate on board images (see Measuring Board 3 below)
+This YOLO v4 model is made to detect patterns on the default SPC Board 3 for calibration of fish and invertebrates on measuring board images (see Measuring Board 3 template below)
 
 ![Board template](https://github.com/PacificCommunity/cfap-ai-models/blob/master/YOLO_v4/SPC_Board3/board3.png)
 
 The patterns locations are used to compute homography between detected patterns and template position and reproject the original image.
 
 ![Detected template](https://github.com/PacificCommunity/cfap-ai-models/blob/master/YOLO_v4/SPC_Board3/output/board3.jpg)
+
+### Template mapping coordinates
 
 * T10 : centerX = 200, centerY+objHeight/2 = 49
 * T20 : centerX = 400, centerY+objHeight/2 = 49
