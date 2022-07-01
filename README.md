@@ -10,6 +10,7 @@ This repository contains the main models that are used as part of a image proces
 * [YOLO v4 - Survey photo types](./YOLO_v4/SurveyPhotoTypes)
 * [YOLO v4 - SPC Board 3 detection](./YOLO_v4/SPC_Board3)
 * [YOLO v4 - SPC Mat 1 detection](./YOLO_v4/SPC_Mat1)
+* [YOLO v4 - Fishes on SPC Mat 1 detection](./YOLO_v4/SPC_Mat1_Fishes)
 
 ## License
 This work is licensed under Creative Commons Attribution-Non Commercial 4.0 license (CC BY-NC 4.0)
