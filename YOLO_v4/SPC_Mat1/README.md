@@ -3,8 +3,8 @@
 ## Introduction
 This YOLO v4 model is made to detect patterns on the default SPC Mat 1 for calibration of fish and invertebrates on SPC mat model 1 (see template below)
 
-|![Mat1 template](./mat1.png)|
--
+| ![Mat1 template](./mat1.png) |
+|-|
 
 The patterns locations are used to compute homography between detected patterns and template position and reproject the original image.
 
